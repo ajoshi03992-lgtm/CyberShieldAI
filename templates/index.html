@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>CyberShieldAI Detection</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial;
+background:#0f172a;
+color:white;
+}
+
+/* NAVBAR */
+
+.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:18px 50px;
+background:#020617;
+}
+
+.navbar a{
+color:white;
+text-decoration:none;
+background:#06b6d4;
+padding:8px 16px;
+border-radius:6px;
+}
+
+/* MAIN AREA */
+
+.container{
+max-width:900px;
+margin:80px auto;
+text-align:center;
+}
+
+/* TEXTAREA */
+
+textarea{
+width:90%;
+height:140px;
+padding:15px;
+border-radius:10px;
+border:none;
+background:#1e293b;
+color:white;
+font-size:16px;
+}
+
+/* BUTTON */
+
+button{
+margin-top:20px;
+padding:14px 35px;
+background:#06b6d4;
+border:none;
+border-radius:8px;
+color:white;
+cursor:pointer;
+}
+
+/* RESULT */
+
+.result-box{
+margin-top:40px;
+background:#1e293b;
+padding:25px;
+border-radius:10px;
+}
+
+.safe{
+color:#22c55e;
+}
+
+.spam{
+color:#ef4444;
+}
+
+/* QUESTIONS */
+
+.question-box{
+margin-top:20px;
+text-align:left;
+background:#020617;
+padding:15px;
+border-radius:8px;
+}
+
+/* INFO SECTION */
+
+.info-section{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+gap:20px;
+margin-top:60px;
+}
+
+.info-box{
+background:#1e293b;
+padding:25px;
+border-radius:10px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="navbar">
+
+<h2>CyberShieldAI</h2>
+
+<a href="/admin">Admin</a>
+
+<a href="/logout">Logout</a>
+
+</div>
+
+<div class="container">
+
+<h1>Spam & Scam Detection</h1>
+
+<p>Paste suspicious message below to analyze using Hybrid AI.</p>
+
+<form method="POST">
+
+<textarea name="message" placeholder="Paste suspicious message here..." required></textarea>
+
+<br>
+
+<button type="submit">Analyze Message</button>
+
+</form>
+
+{% if result %}
+
+<div class="result-box">
+
+{% if result == "SAFE" %}
+<h2 class="safe">Message is SAFE</h2>
+{% else %}
+<h2 class="spam">Message is SPAM</h2>
+{% endif %}
+
+<p><b>Confidence:</b> {{probability}}%</p>
+
+<p><b>Analysis:</b> {{description}}</p>
+
+{% if rule_reason %}
+<p><b>Detection Reason:</b> {{rule_reason}}</p>
+{% endif %}
+
+{% if ask_user %}
+
+<div class="question-box">
+
+<h3>Security Questions</h3>
+
+<ul>
+
+{% for q in ask_user %}
+
+<li>{{q}}</li>
+
+{% endfor %}
+
+</ul>
+
+</div>
+
+{% endif %}
+
+</div>
+
+{% endif %}
+
+<div class="info-section">
+
+<div class="info-box">
+<h3>Hybrid AI</h3>
+<p>Machine Learning + Rule Based Detection</p>
+</div>
+
+<div class="info-box">
+<h3>Real Time Analysis</h3>
+<p>Instant scam detection</p>
+</div>
+
+<div class="info-box">
+<h3>Auto Learning</h3>
+<p>System learns new scam patterns</p>
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>

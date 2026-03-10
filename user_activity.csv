@@ -1,0 +1,224 @@
+Username,Action,Message,Result,Probability,DateTime
+Aditya joshi,LOGIN,,,,2026-03-02 22:10:27
+Aditya joshi,CHECK_MESSAGE,hey what are you doing,SAFE,100.0%,2026-03-02 22:10:37
+Aditya joshi,LOGOUT,,,,2026-03-02 22:10:41
+Aditya joshi,LOGIN,,,,2026-03-02 22:21:58
+Aditya joshi,CHECK_MESSAGE,hey ,SAFE,97.7%,2026-03-02 22:22:05
+Aditya joshi,LOGOUT,,,,2026-03-02 22:22:15
+Aditya joshi,LOGIN,,,,2026-03-02 22:22:27
+Aditya joshi,CHECK_MESSAGE,aadi,SAFE,86.59%,2026-03-02 22:22:35
+Aditya joshi,LOGOUT,,,,2026-03-02 22:22:44
+Aditya joshi,LOGIN,,,,2026-03-02 22:23:33
+Aditya joshi,LOGOUT,,,,2026-03-02 22:23:37
+Aditya joshi,LOGIN,,,,2026-03-02 22:30:14
+Aditya joshi,CHECK_MESSAGE,aaditya,SAFE,86.59%,2026-03-02 22:30:25
+Aditya joshi,LOGOUT,,,,2026-03-02 22:32:55
+adu,LOGIN,,,,2026-03-02 22:36:18
+adu,CHECK_MESSAGE,"tft
+",SAFE,86.59%,2026-03-02 22:36:23
+Aditya joshi,LOGIN,,,,2026-03-02 22:43:49
+Aditya joshi,CHECK_MESSAGE,"“Congratulations! You have won ₹25,00,000 in a lucky draw. Click here to claim.”
+
+“You are selected as today’s winner. Pay processing fee to receive prize.”",SPAM,100.0%,2026-03-02 22:44:19
+Aditya joshi,CHECK_MESSAGE,hey,SAFE,97.7%,2026-03-02 22:45:45
+Aditya joshi,LOGIN,,,,2026-03-02 22:47:35
+Aditya joshi,LOGIN,,,,2026-03-02 22:47:47
+Aditya joshi,CHECK_MESSAGE,hey,SAFE,97.7%,2026-03-02 22:47:52
+Aditya joshi,LOGOUT,,,,2026-03-02 22:51:03
+admin,LOGIN,,,,2026-03-02 22:57:26
+admin,CHECK_MESSAGE,hey,SAFE,97.7%,2026-03-02 22:57:34
+admin,LOGOUT,,,,2026-03-02 22:57:52
+Aditya joshi,LOGIN,,,,2026-03-03 19:32:37
+Aditya joshi,CHECK_MESSAGE,aaditya ,SAFE,86.59%,2026-03-03 19:32:45
+Aditya joshi,CHECK_MESSAGE,hey,SAFE,97.7%,2026-03-03 19:32:56
+Aditya joshi,LOGOUT,,,,2026-03-03 19:33:02
+admin,LOGIN,,,,2026-03-03 19:41:21
+admin,CHECK_MESSAGE,bk hdb,SAFE,87.63%,2026-03-03 19:41:25
+admin,LOGOUT,,,,2026-03-03 19:41:37
+Aditya joshi,LOGIN,,,,2026-03-03 19:41:46
+Aditya joshi,LOGIN,,,,2026-03-03 19:44:50
+Aditya joshi,CHECK_MESSAGE,free,SPAM,60.97%,2026-03-03 19:45:05
+Aditya joshi,LOGOUT,,,,2026-03-03 19:45:22
+Aditya joshi,LOGIN,,,,2026-03-04 10:38:50
+Aditya joshi,CHECK_MESSAGE,bala ,SAFE,86.59%,2026-03-04 10:38:56
+Aditya joshi,CHECK_MESSAGE,aaduuu,SAFE,86.59%,2026-03-04 10:39:16
+Aditya joshi,CHECK_MESSAGE,aditya,SAFE,86.59%,2026-03-04 10:39:30
+Aditya joshi,CHECK_MESSAGE,aditya,SAFE,86.59%,2026-03-04 10:39:37
+Aditya joshi,CHECK_MESSAGE,aditya,SAFE,86.59%,2026-03-04 10:39:37
+Aditya joshi,CHECK_MESSAGE,aditya,SAFE,86.59%,2026-03-04 10:39:37
+Aditya joshi,CHECK_MESSAGE,No interview required. Pay registration fee & start earning immediately.”,SAFE,95.77%,2026-03-04 10:41:54
+Aditya joshi,CHECK_MESSAGE,Your package is on hold due to incorrect address. Update details now.”,SPAM,85.68%,2026-03-04 10:42:10
+Aditya joshi,LOGOUT,,,,2026-03-04 10:43:19
+admin,LOGIN,,,,2026-03-04 10:43:44
+admin,LOGOUT,,,,2026-03-04 10:47:53
+admin,LOGIN,,,,2026-03-04 10:48:04
+admin,CHECK_MESSAGE,our package is on hold due to incorrect address. Update details now.”,SPAM,92.59%,2026-03-04 10:48:10
+admin,CHECK_MESSAGE,"hey how are you
+",SAFE,99.96%,2026-03-04 10:48:42
+admin,CHECK_MESSAGE,"https://www.mitacsc.ac.in/
+",SPAM,99.26%,2026-03-04 10:51:10
+admin,CHECK_MESSAGE,"https://www.mitacsc
+",SPAM,93.32%,2026-03-04 10:51:25
+admin,CHECK_MESSAGE,"https://www.mitacsc.com
+",SPAM,99.15%,2026-03-04 10:51:42
+admin,CHECK_MESSAGE,"ऑफर 9960XXX091 साठी. आता रिचार्ज करा रु399 ने आणि मिळवा अनलिमिटेड कॉल, अनलिमिटेड 4G + 5G डाटा आणि 100 SMS/दिवस, 28 दिवसांपर्यंत. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in/AirRech
+",SPAM,99.87%,2026-03-04 10:54:34
+admin,CHECK_MESSAGE,"quaretix-zbt.caffeine.xyz
+",SAFE,86.59%,2026-03-04 10:56:09
+admin,LOGIN,,,,2026-03-04 19:44:28
+admin,CHECK_MESSAGE,https://www.mitacsc.ac.in,SPAM,99.26%,2026-03-04 19:45:48
+admin,LOGIN,,,,2026-03-07 22:46:41
+admin,CHECK_MESSAGE,https://www.mitacsc.ac.in/,SPAM,85%,2026-03-07 22:47:34
+admin,CHECK_MESSAGE,https://www.mitacsc.ac.in/,SPAM,85%,2026-03-07 22:48:16
+admin,LOGIN,,,,2026-03-07 23:19:27
+admin,CHECK_MESSAGE,https://www.mitacsc.ac.in/,SAFE,95%,2026-03-07 23:19:41
+admin,CHECK_MESSAGE,"ऑफर 9960XXX091 साठी. आता रिचार्ज करा रु399 ने आणि मिळवा अनलिमिटेड कॉल, अनलिमिटेड 4G + 5G डाटा आणि 100 SMS/दिवस, 28 दिवसांपर्यंत. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in/AirRech",SPAM,85%,2026-03-07 23:25:01
+admin,CHECK_MESSAGE,"ऑफर 9960XXX091 साठी. आता रिचार्ज करा रु399 ने आणि मिळवा अनलिमिटेड कॉल, अनलिमिटेड 4G + 5G डाटा आणि 100 SMS/दिवस, 28 दिवसांपर्यंत. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in",SPAM,85%,2026-03-07 23:25:24
+admin,CHECK_MESSAGE,"Dear User,
+
+You’ve earned Lifetime Free Kiwi UPI Credit Card (CC: JIOKIWI) on Jio Recharge. Claim now: https://t.jio/JIOCPN/SIyNA9 T&C*
+
+JioCoupons",SPAM,85%,2026-03-07 23:29:35
+admin,CHECK_MESSAGE,"Congratulations!
+Your 1-month JioHotstar subscription is now activated on Jio number 9209348807.
+Please note, this subscription can be availed for up to 2 more months on your Jio number on recharging with eligible plans.
+Log in to JioHotstar app with your Jio number and enjoy live cricket, movies, TV shows, and more!
+You can also experience 50 days of free JioAirFiber as part of Jio Unlimited Offer! Call 60008-60008 or visit https://tiny.jio.com/jiounlimitedoffer to register your interest. T&C apply.
+Happy watching!
+Team Jio",SPAM,85%,2026-03-07 23:30:50
+admin,CHECK_MESSAGE,"Congratulations!
+Your 1-month JioHotstar subscription is now activated on Jio number 9209348807.
+Please note, this subscription can be availed for up to 2 more months on your Jio number on recharging with eligible plans.
+Log in to JioHotstar app with your Jio number and enjoy live cricket, movies, TV shows, and more!
+You can also experience 50 days of free JioAirFiber as part of Jio Unlimited Offer! Call 60008-60008 or visit https://tiny.jio.com/jiounlimitedoffer to register your interest. T&C apply.
+Happy watching!
+Team Jio",SPAM,85%,2026-03-07 23:30:54
+admin,LOGIN,,,,2026-03-07 23:37:36
+admin,CHECK_MESSAGE,"ऑफर 9960XXX091 साठी. आता रिचार्ज करा रु399 ने आणि मिळवा अनलिमिटेड कॉल, अनलिमिटेड 4G + 5G डाटा आणि 100 SMS/दिवस, 28 दिवसांपर्यंत. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in/AirRech",SAFE,95%,2026-03-07 23:38:45
+admin,CHECK_MESSAGE,"Congratulations!
+Your 1-month JioHotstar subscription is now activated on Jio number 9209348807.
+Please note, this subscription can be availed for up to 2 more months on your Jio number on recharging with eligible plans.
+Log in to JioHotstar app with your Jio number and enjoy live cricket, movies, TV shows, and more!
+You can also experience 50 days of free JioAirFiber as part of Jio Unlimited Offer! Call 60008-60008 or visit https://tiny.jio.com/jiounlimitedoffer to register your interest. T&C apply.
+Happy watching!
+Team Jio",SAFE,92%,2026-03-07 23:39:21
+admin,CHECK_MESSAGE,"50% OFF on Amazon Sale Today!
+Shop now: amazon.in/sale",SAFE,90%,2026-03-07 23:44:12
+admin,CHECK_MESSAGE,"Google Drive file shared with you
+https://bit.ly/3aX9sD",SPAM,90%,2026-03-07 23:44:37
+admin,CHECK_MESSAGE,"Login to update your account
+https://amaz0n-support.com",SPAM,92%,2026-03-07 23:45:07
+admin,CHECK_MESSAGE,"Login to update your account
+https://amaz0n-support.com",SPAM,92%,2026-03-07 23:45:18
+admin,CHECK_MESSAGE,"Login to update your account
+https://amazon-support.com",SPAM,92%,2026-03-07 23:45:27
+admin,CHECK_MESSAGE,"Login to update your account
+https://amazon-support.com",SPAM,92%,2026-03-07 23:45:30
+admin,CHECK_MESSAGE,"Your OTP is 482739
+Share this OTP to activate reward",SPAM,94.45%,2026-03-07 23:46:25
+admin,CHECK_MESSAGE,"Microsoft hiring interns
+Apply here: careers.microsoft.com",SPAM,90%,2026-03-07 23:48:00
+admin,CHECK_MESSAGE,"Microsoft hiring interns
+Apply here: careers.microsoft.com",SPAM,90%,2026-03-07 23:48:24
+admin,CHECK_MESSAGE,"Your SBI account debit alert
+Check details here: sbi.co.in",SPAM,85%,2026-03-07 23:49:12
+admin,CHECK_MESSAGE,"आपका OTP 482739 है
+Do not share with anyone",SAFE,90%,2026-03-07 23:49:57
+admin,CHECK_MESSAGE,"Watch this video
+youtube.com/watch?v=abc123",SAFE,92%,2026-03-07 23:50:28
+admin,CHECK_MESSAGE,"College admission open
+https://mitacsc.ac.in",SAFE,95%,2026-03-07 23:50:58
+admin,LOGIN,,,,2026-03-08 00:05:20
+admin,CHECK_MESSAGE,https://www.mitacsc.ac.in/,SAFE,95%,2026-03-08 00:05:59
+admin,CHECK_MESSAGE,https://www.mitacsc.ac.in/,SAFE,95%,2026-03-08 00:06:01
+admin,LOGIN,,,,2026-03-08 00:34:50
+admin,CHECK_MESSAGE,"Congratulations you won lottery
+Click link to claim reward",SPAM,100.0%,2026-03-08 00:35:51
+admin,LOGIN,,,,2026-03-08 10:47:01
+admin,CHECK_MESSAGE,https://docs.google.com/,SAFE,92%,2026-03-08 10:47:17
+admin,CHECK_MESSAGE,तुमचा मोबाईल खरा आहे का ते तपासायचे आहे का? तपासण्यासाठी संचार साथी डाउनलोड करा : Android : https://t.jio/ISATHI/MWxHL9 iOS: https://t.jio/ISATHI/ios Department of Telecom,SAFE,92%,2026-03-08 11:00:34
+admin,CHECK_MESSAGE,hello,SAFE,95.94%,2026-03-08 11:00:50
+admin,LOGOUT,,,,2026-03-08 11:00:55
+admin,LOGIN,,,,2026-03-08 13:28:57
+admin,LOGOUT,,,,2026-03-08 13:29:03
+admin,LOGIN,,,,2026-03-08 13:54:23
+admin,LOGIN,,,,2026-03-08 13:59:15
+admin,LOGIN,,,,2026-03-08 14:00:40
+admin,LOGIN,,,,2026-03-08 14:15:00
+admin,LOGIN,,,,2026-03-08 14:16:34
+admin,LOGIN,,,,2026-03-08 14:48:20
+admin,CHECK_MESSAGE,hello,SAFE,95.94%,2026-03-08 14:48:29
+admin,LOGOUT,,,,2026-03-08 14:48:33
+admin,LOGIN,,,,2026-03-08 14:49:02
+admin,LOGIN,,,,2026-03-08 14:59:07
+admin,CHECK_MESSAGE,hello,SAFE,95.94%,2026-03-08 14:59:20
+admin,LOGOUT,,,,2026-03-08 14:59:40
+admin,LOGIN,,,,2026-03-08 15:02:13
+admin,CHECK_MESSAGE,hello,SAFE,95.94%,2026-03-08 15:02:20
+admin,LOGOUT,,,,2026-03-08 15:02:25
+admin,LOGIN,,,,2026-03-08 15:08:29
+admin,LOGOUT,,,,2026-03-08 15:08:50
+Aditya joshi 089,LOGIN,,,,2026-03-08 15:09:28
+admin,LOGIN,,,,2026-03-08 15:14:31
+admin,LOGIN,,,,2026-03-08 15:22:24
+admin,LOGIN,,,,2026-03-08 15:25:37
+admin,CHECK_MESSAGE,hey,SAFE,97.7%,2026-03-08 15:26:03
+admin,CHECK_MESSAGE,"Congratulations!
+Your 1-month JioHotstar subscription is now activated on Jio number 9209348807.
+Please note, this subscription can be availed for up to 2 more months on your Jio number on recharging with eligible plans.
+Log in to JioHotstar app with your Jio number and enjoy live cricket, movies, TV shows, and more!
+You can also experience 50 days of free JioAirFiber as part of Jio Unlimited Offer! Call 60008-60008 or visit https://tiny.jio.com/jiounlimitedoffer to register your interest. T&C apply.
+Happy watching!
+Team Jio",SAFE,92%,2026-03-08 15:26:22
+admin,CHECK_MESSAGE,"Congratulations!
+Your 1-month JioHotstar subscription is now activated on Jio number 9209348807.
+Please note, this subscription can be availed for up to 2 more months on your Jio number on recharging with eligible plans.
+Log in to JioHotstar app with your Jio number and enjoy live cricket, movies, TV shows, and more!
+You can also experience 50 days of free JioAirFiber as part of Jio Unlimited Offer! Call 60008-60008 or visit https://tiny.jio.com/jiounlimitedoffer to register your interest. T&C apply.
+Happy watching!
+Team Jio",SAFE,92%,2026-03-08 15:26:28
+admin,CHECK_MESSAGE,तुमचा मोबाईल खरा आहे का ते तपासायचे आहे का? तपासण्यासाठी संचार साथी डाउनलोड करा : Android : https://t.jio/ISATHI/MWxHL9 iOS: https://t.jio/ISATHI/ios Department of Telecom,SAFE,92%,2026-03-08 15:26:41
+admin,CHECK_MESSAGE,https://www.mitacsc.ac.in/,SAFE,95%,2026-03-08 15:28:17
+admin,LOGIN,,,,2026-03-08 15:31:17
+admin,CHECK_MESSAGE,https://www.mitacsc.ac.in/,SAFE,95%,2026-03-08 15:31:28
+admin,CHECK_MESSAGE,https://www.mitacsc.ac.in/,SAFE,95%,2026-03-08 15:31:40
+admin,LOGIN,,,,2026-03-08 15:57:54
+admin,CHECK_MESSAGE,https://www.mitacsc.ac.in/,SAFE,95%,2026-03-08 15:58:12
+admin,LOGIN,,,,2026-03-08 18:27:33
+admin,LOGOUT,,,,2026-03-08 18:28:25
+admin,LOGIN,,,,2026-03-09 12:16:37
+admin,CHECK_MESSAGE,https://jry8fm.csb.app/,SPAM,85%,2026-03-09 12:18:56
+admin,LOGIN,,,,2026-03-09 14:34:10
+admin,LOGIN,,,,2026-03-09 14:36:25
+admin,CHECK_MESSAGE,BOI -  Rs.15000.00 Credited to your Ac XX0574 on 09-03-26 by UPI ref No.643453884255.Avl Bal 41075.00,SPAM,100.0%,2026-03-09 14:36:29
+admin,CHECK_MESSAGE,"Congratulations!
+Your 1-month JioHotstar subscription is now activated on Jio number 9209348807.
+Please note, this subscription can be availed for up to 2 more months on your Jio number on recharging with eligible plans.
+Log in to JioHotstar app with your Jio number and enjoy live cricket, movies, TV shows, and more!
+You can also experience 50 days of free JioAirFiber as part of Jio Unlimited Offer! Call 60008-60008 or visit https://tiny.jio.com/jiounlimitedoffer to register your interest. T&C apply.
+Happy watching!
+Team Jio",SAFE,92%,2026-03-09 14:36:48
+admin,CHECK_MESSAGE,"Congratulations!
+Your 1-month JioHotstar subscription is now activated on Jio number 9209348807.
+Please note, this subscription can be availed for up to 2 more months on your Jio number on recharging with eligible plans.
+Log in to JioHotstar app with your Jio number and enjoy live cricket, movies, TV shows, and more!
+You can also experience 50 days of free JioAirFiber as part of Jio Unlimited Offer! Call 60008-60008 or visit https://tiny.jio.com/jiounlimitedoffer to register your interest. T&C apply.
+Happy watching!
+Team Jio",SAFE,92%,2026-03-09 14:36:58
+admin,CHECK_MESSAGE,"Credit Alert!
+Rs.450.00 credited to HDFC Bank A/c XX3494 on 09-03-26 from VPA manasiatitkar81@okhdfcbank (UPI 119744639018)",SPAM,100.0%,2026-03-09 14:38:08
+admin,CHECK_MESSAGE,"ऑफर 9960XXX091 साठी. आता रिचार्ज करा रु399 ने आणि मिळवा अनलिमिटेड कॉल, अनलिमिटेड 4G + 5G डाटा आणि 100 SMS/दिवस, 28 दिवसांपर्यंत. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in/AirRech",SAFE,95%,2026-03-09 14:38:43
+admin,CHECK_MESSAGE,"Credit Alert!
+Rs.450.00 credited to HDFC Bank A/c XX3494 on 09-03-26 from VPA manasiatitkar81@okhdfcbank (UPI 119744639018)",SPAM,100.0%,2026-03-09 14:39:57
+admin,CHECK_MESSAGE,https://www.mitacsc.ac.in/,SAFE,95%,2026-03-09 14:40:45
+admin,LOGIN,,,,2026-03-09 14:55:44
+admin,CHECK_MESSAGE,shubhangi,SAFE,86.59%,2026-03-09 14:55:57
+admin,CHECK_MESSAGE,"Credit Alert!
+Rs.450.00 credited to HDFC Bank A/c XX3494 on 09-03-26 from VPA manasiatitkar81@okhdfcbank (UPI 119744639018)",SPAM,100.0%,2026-03-09 14:56:58
+admin,CHECK_MESSAGE,"ऑफर 9960XXX091 साठी. आता रिचार्ज करा रु399 ने आणि मिळवा अनलिमिटेड कॉल, अनलिमिटेड 4G + 5G डाटा आणि 100 SMS/दिवस, 28 दिवसांपर्यंत. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in/AirRech",SAFE,95%,2026-03-09 14:57:12
+admin,LOGOUT,,,,2026-03-09 14:59:15
+admin,LOGIN,,,,2026-03-10 08:30:08
+admin,CHECK_MESSAGE,hello,SAFE,95.94%,2026-03-10 08:30:18
+admin,LOGOUT,,,,2026-03-10 08:37:43
+admin,LOGIN,,,,2026-03-10 08:38:26
+admin,CHECK_MESSAGE,hello,SAFE,95.94%,2026-03-10 08:38:35

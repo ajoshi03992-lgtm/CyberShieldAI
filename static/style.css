@@ -1,0 +1,145 @@
+body{
+
+margin:0;
+font-family:Arial, Helvetica, sans-serif;
+background:#0f172a;
+color:white;
+
+}
+
+/* NAVBAR */
+
+.navbar{
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 60px;
+background:#020617;
+
+}
+
+.navbar a{
+
+color:white;
+text-decoration:none;
+margin-left:20px;
+
+}
+
+/* HERO */
+
+.hero{
+
+text-align:center;
+padding:120px 20px;
+
+}
+
+.hero h1{
+
+font-size:40px;
+
+}
+
+.main-btn{
+
+margin-top:20px;
+padding:14px 35px;
+background:#06b6d4;
+border:none;
+border-radius:8px;
+color:white;
+cursor:pointer;
+
+}
+
+/* TRUST */
+
+.trust{
+
+text-align:center;
+padding:80px 20px;
+
+}
+
+.trust-grid{
+
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+gap:30px;
+margin-top:40px;
+
+}
+
+/* HOW IT WORKS */
+
+.how{
+
+text-align:center;
+padding:80px 20px;
+
+}
+
+.steps{
+
+display:flex;
+justify-content:center;
+gap:40px;
+margin-top:40px;
+
+}
+
+.step{
+
+background:#1e293b;
+padding:30px;
+border-radius:10px;
+
+}
+
+/* FEATURES */
+
+.features{
+
+text-align:center;
+padding:80px 20px;
+
+}
+
+.feature-grid{
+
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:30px;
+margin-top:40px;
+
+}
+
+.feature-card{
+
+background:#1e293b;
+padding:30px;
+border-radius:10px;
+
+}
+
+/* DEMO */
+
+.demo{
+
+text-align:center;
+padding:80px 20px;
+
+}
+
+/* FOOTER */
+
+footer{
+
+text-align:center;
+padding:30px;
+background:#020617;
+margin-top:80px;
+
+}
