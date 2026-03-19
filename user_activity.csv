@@ -222,3 +222,65 @@ admin,CHECK_MESSAGE,hello,SAFE,95.94%,2026-03-10 08:30:18
 admin,LOGOUT,,,,2026-03-10 08:37:43
 admin,LOGIN,,,,2026-03-10 08:38:26
 admin,CHECK_MESSAGE,hello,SAFE,95.94%,2026-03-10 08:38:35
+admin,LOGIN,,,,2026-03-10 22:14:39
+admin,CHECK_MESSAGE,"hello,how are you",SAFE,99.92%,2026-03-10 22:14:57
+admin,CHECK_MESSAGE,http://bank-verification-urgent-login.example,SPAM,85%,2026-03-10 22:16:48
+admin,LOGOUT,,,,2026-03-10 22:17:22
+admin,LOGIN,,,,2026-03-11 07:25:28
+admin,CHECK_MESSAGE,"Track your Amazon order: https://www.amazon.in/your-orders
+
+",SAFE,92%,2026-03-11 07:26:21
+admin,CHECK_MESSAGE,"Check your Google security settings: https://myaccount.google.com/security
+
+",SAFE,92%,2026-03-11 07:27:35
+admin,CHECK_MESSAGE,"Pay your electricity bill securely: https://www.mahadiscom.in
+
+",SPAM,85%,2026-03-11 07:27:55
+admin,CHECK_MESSAGE,Pay your electricity bill securely: https://www.mahadiscom.in,SPAM,85%,2026-03-11 07:29:00
+admin,CHECK_MESSAGE,"Claim your ₹50,000 reward: http://cash-bonus-win.xyz
+
+",SPAM,92%,2026-03-11 07:29:26
+admin,CHECK_MESSAGE,"Free iPhone giveaway: http://iphone-reward-claim.top
+",SPAM,92%,2026-03-11 07:30:02
+admin,CHECK_MESSAGE,"Double your crypto instantly: http://crypto-profit-fast.win
+",SPAM,85%,2026-03-11 07:30:31
+admin,LOGIN,,,,2026-03-11 12:06:18
+admin,CHECK_MESSAGE,http://free-money-generator.xyz,SPAM,92%,2026-03-11 12:06:21
+admin,LOGOUT,,,,2026-03-11 12:06:28
+admin,LOGIN,,,,2026-03-11 12:11:32
+admin,CHECK_MESSAGE,http://free-money-generator.xyz,SPAM,92%,2026-03-11 12:11:38
+admin,CHECK_MESSAGE,http://free-money-generator.xyz,SPAM,92%,2026-03-11 12:11:57
+admin,CHECK_MESSAGE,http://127.0.0.1:5000/index,SPAM,85%,2026-03-11 12:12:36
+admin,CHECK_MESSAGE,http://127.0.0.1:5000/index,SPAM,85%,2026-03-11 12:14:26
+admin,LOGIN,,,,2026-03-16 22:28:34
+admin,CHECK_MESSAGE,http://127.0.0.1:5000,SPAM,85%,2026-03-16 22:28:40
+admin,CHECK_MESSAGE,https://127.0.0.1:5000,SPAM,85%,2026-03-16 22:29:10
+admin,CHECK_MESSAGE,https://127.0.0.1:5000,SPAM,85%,2026-03-16 22:29:11
+admin,CHECK_MESSAGE,http://127.0.0.1:5000.jio,SAFE,92%,2026-03-16 22:29:26
+admin,LOGOUT,,,,2026-03-16 22:29:41
+admin,LOGIN,,,,2026-03-17 22:18:58
+admin,CHECK_MESSAGE,http://127.0.0.1:5000/index,SPAM,85%,2026-03-17 22:19:10
+admin,LOGIN,,,,2026-03-18 07:32:49
+admin,CHECK_MESSAGE,http://free-money-generator.xyz,SPAM,92%,2026-03-18 07:33:25
+admin,LOGIN,,,,2026-03-18 10:41:18
+admin,CHECK_MESSAGE,hello,SAFE,95.94%,2026-03-18 10:41:26
+admin,CHECK_MESSAGE,http://127.0.0.1:5000,SPAM,85%,2026-03-18 10:41:33
+admin,CHECK_MESSAGE,http://127.0.0.1:5000.jio,SAFE,92%,2026-03-18 10:41:40
+admin,CHECK_MESSAGE,http://127.0.0.1:5000.jio,SAFE,92%,2026-03-18 10:42:03
+admin,CHECK_MESSAGE,http://127.0.0.1:5000.jio,SAFE,92%,2026-03-18 10:42:16
+admin,CHECK_MESSAGE,http://127.0.0.1:5000,SPAM,85%,2026-03-18 10:42:22
+admin,CHECK_MESSAGE,http://account-check-review.com,SAFE,92%,2026-03-18 10:44:42
+admin,CHECK_MESSAGE,http://delivery-update-portal.net,SPAM,85%,2026-03-18 10:45:01
+admin,CHECK_MESSAGE,https://www.linkedin.com,SPAM,85%,2026-03-18 10:45:32
+admin,CHECK_MESSAGE,https://www.linkedin.com,SPAM,85%,2026-03-18 10:45:35
+admin,CHECK_MESSAGE,https://support.google.com,SAFE,92%,2026-03-18 10:45:59
+admin,CHECK_MESSAGE,http://delivery-update.net,SPAM,85%,2026-03-18 10:46:45
+admin,CHECK_MESSAGE,http://atm-update.top,SPAM,92%,2026-03-18 10:47:14
+admin,CHECK_MESSAGE, hello ,SAFE,95.94%,2026-03-18 10:47:31
+admin,LOGOUT,,,,2026-03-18 10:50:10
+admin,LOGIN,,,,2026-03-18 11:50:57
+admin,CHECK_MESSAGE,http://paytm-cash.win ,SPAM,85%,2026-03-18 11:57:57
+admin,CHECK_MESSAGE,https://support.google.com,SAFE,92%,2026-03-18 11:58:35
+admin,CHECK_MESSAGE,"flipcart.com
+",SPAM,90%,2026-03-18 11:59:02
+admin,CHECK_MESSAGE,"Congratulations! You won ₹10,000. Claim now: http://cash-win.xyz",SPAM,92%,2026-03-18 12:00:05
